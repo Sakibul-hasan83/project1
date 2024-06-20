@@ -2,11 +2,12 @@
 font-size: 25px;
 color: orange;
 }
-.button-color{
-    color:white;
+.button{
+    color:rgb(255, 255, 255);
     text-decoration: none;
     background-color: orange;
-    border-radius: 5px;
+    border-radius: 10px;
+    padding: 10px 15px;
     
 }
 
@@ -21,4 +22,18 @@ margin-top:2%
 .half-width img{
     width: 100%;
 
+}
+.banner1{
+    border: 2px solid black;
+
+    background-image: url("image/top-banner.png");
+    background-repeat: no-repeat;
+  
+}
+section{
+    height: 500px;
+    
+}
+body {
+    margin: 0%;
 }
