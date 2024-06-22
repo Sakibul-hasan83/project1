@@ -1,4 +1,4 @@
-.name-color{
+.orenge-color{
 font-size: 25px;
 color: orange;
 }
@@ -24,7 +24,7 @@ margin-top:2%
 
 }
 .banner1{
-    border: 2px solid black;
+    border: 2px;
 
     background-image: url("image/top-banner.png");
     background-repeat: no-repeat;
@@ -37,3 +37,173 @@ section{
 body {
     margin: 0%;
 }
+.shadow{
+    box-shadow: 10px 10px 20px rgb(26, 17, 1);
+    border-radius: 10px;
+height: 65%;
+background-color: white;
+}
+.experience {
+    background-image: url("image/exp-bg.png");
+    background-repeat: no-repeat;
+
+
+
+
+
+
+    background-position: left;
+}
+    
+#side-border{
+    border-left: 7px solid
+   
+    ;
+    border-image: linear-gradient(180deg, rgb(214, 223, 34), tomato);
+    border-image-slice: 1;
+}
+#sidetwo{
+
+    border-left: 7px solid;
+    border-image: linear-gradient(180deg, lightsalmon, tomato);
+    border-image-slice: 1;
+}
+
+footer p{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
